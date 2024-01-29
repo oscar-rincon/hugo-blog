@@ -1,0 +1,4 @@
+[submodule "oscar-rincon-site/public"]
+	path = oscar-rincon-site/public
+	url = https://github.com/oscar-rincon/oscar-rincon.github.io.git
+	branch = main
